@@ -1,18 +1,18 @@
 # Customer Churn Prediction
 
----
+
 
 ## Problem Statement
 
 Analyzed a telecom dataset of 7,043 customers using Python for preprocessing, exploratory data analysis (EDA), and machine learning to predict customer churn.
 
----
+
 
 ## Technical Approach
 
 Data Preprocessing → EDA → Feature Engineering → Random Forest Classifier → Insights
 
----
+
 
 ## Installation
 
@@ -28,7 +28,7 @@ Data Preprocessing → EDA → Feature Engineering → Random Forest Classifier 
 
 *(All pre-installed in Google Colab)*
 
----
+
 
 ## Usage
 
@@ -47,7 +47,7 @@ Run `Customer_Churn_Prediction.ipynb` in Colab to:
 - Review feature importance  
 - Extract business insights  
 
----
+
 
 ## Dataset
 
@@ -55,7 +55,7 @@ Run `Customer_Churn_Prediction.ipynb` in Colab to:
 - **Size:** 7,043 customers × 21 columns  
 - **Features:** Demographics, services, billing, churn  
 
----
+
 
 ## Data Preprocessing
 
@@ -63,7 +63,7 @@ Run `Customer_Churn_Prediction.ipynb` in Colab to:
 - One-hot encoding for categorical variables  
 - Feature engineering: tenure groups (0–12, 13–24, etc.)  
 
----
+
 
 ## Exploratory Data Analysis
 
@@ -71,7 +71,7 @@ Run `Customer_Churn_Prediction.ipynb` in Colab to:
 - Correlation heatmap  
 - Monthly charges vs churn (boxplot)  
 
----
+
 
 ## Machine Learning Pipeline
 
@@ -84,17 +84,17 @@ Run `Customer_Churn_Prediction.ipynb` in Colab to:
 - Recall  
 - F1-score  
 
----
+
 
 ## Key Drivers of Churn
 
-1. InternetService_Fiber optic (0.548)  
-2. TenureGroup_Long (0.504)  
-3. PaperlessBilling (0.341)  
-4. PaymentMethod_Electronic check (0.312)  
+1. InternetService_Fiber optic (0.746)  
+2. TenureGroup_Long (0.252)  
+3. PaperlessBilling (0.185)  
+4. PaymentMethod_Electronic check (0.177)  
 5. MonthlyCharges (0.010)  
 
----
+
 
 ## Visualizations
 
@@ -102,13 +102,13 @@ Run `Customer_Churn_Prediction.ipynb` in Colab to:
 - Correlation heatmap  
 - Boxplots  
 
----
+
 
 ## Conclusion
 
 This model helps identify high-risk customers and supports retention strategies. Effective preprocessing and EDA improved prediction accuracy.
 
----
+
 
 ## Business Recommendations
 
@@ -116,7 +116,7 @@ This model helps identify high-risk customers and supports retention strategies.
 - **Fiber optic users:** Improve service or provide bundled offers  
 - **High monthly charges:** Introduce tiered pricing or value-added services  
 
----
+
 
 ## Skills Used
 
