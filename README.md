@@ -72,7 +72,7 @@ Run `Customer_Churn_Prediction.ipynb` in Colab to:
 - Monthly charges vs churn (boxplot)  
 ![Churn Distribution](images/churn.png)
 ![Heatmap](images/heatmap.png)
-![Monthly charges vs churn (boxplot)](images/monthly charges.png)
+![Monthly charges vs churn (boxplot)](images/monthlycharges.png)
 
 
 ## Machine Learning Pipeline
