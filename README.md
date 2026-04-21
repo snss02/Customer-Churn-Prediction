@@ -70,12 +70,7 @@ Run `Customer_Churn_Prediction.ipynb` in Colab to:
 - Churn distribution (**26.5% churn rate**)  
 - Correlation heatmap  
 - Monthly charges vs churn (boxplot)  
-![Churn Distribution](images/churn.png)
-![Heatmap](images/heatmap.png)
-![Monthly charges vs churn (boxplot)](images/monthlycharges.png)
-![byservice](images/byservice.png)
-![paymentmethod](images/paymentmethod.png)
-![churnratesenior](images/churnrateseniorvsnonsenior.png)
+
 ## Machine Learning Pipeline
 
 - Train/Test Split: **80/20**  
@@ -101,12 +96,20 @@ Run `Customer_Churn_Prediction.ipynb` in Colab to:
 
 ## Visualizations
 
-- Churn distribution  
-- Correlation heatmap  
-- Boxplots  
+## Churn distribution
+- ![Churn Distribution](images/churn.png)
+## Correlation heatmap  
+![Heatmap](images/heatmap.png)
+## Boxplots  
 
-
-
+<p align="center">
+  <img src="images/monthlycharges.png" width="45%">
+  <img src="images/byservice.png" width="45%">
+</p>
+<p align="center">
+  <img src="images/paymentmethod.png" width="45%">
+  <img src="images/churnrateseniorvsnonsenior.png" width="45%">
+</p>
 ## Conclusion
 
 This model helps identify high-risk customers and supports retention strategies. Effective preprocessing and EDA improved prediction accuracy.
