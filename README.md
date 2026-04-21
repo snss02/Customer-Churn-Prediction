@@ -135,7 +135,7 @@ Author
 Sneha
 
 ## Sneha Sai
-[LinkedIn](https://linkedin.com/in/sneha-sri-a38981229) |[Email](mailto:sneharsp.23@gmail.com)|[GitHub](https://github.com/snss02)
+[LinkedIn](https://linkedin.com/in/sneha-sri-a38981229) | [Email](mailto:sneharsp.23@gmail.com)| [GitHub](https://github.com/snss02)
 
 
 Open to: Data Analyst, Data Scientist, BI Developer roles
