@@ -139,7 +139,7 @@ This model helps identify high-risk customers and supports retention strategies.
 
 
 
-## Sneha Sai
+## Sneha 
 [LinkedIn](https://linkedin.com/in/sneha-sri-a38981229) | [Email](mailto:sneharsp.23@gmail.com) | [GitHub](https://github.com/snss02)
 
 
@@ -149,6 +149,8 @@ License
 MIT License.
 
 Author
+
+
 Sneha
 
 
