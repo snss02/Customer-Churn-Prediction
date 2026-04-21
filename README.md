@@ -70,7 +70,9 @@ Run `Customer_Churn_Prediction.ipynb` in Colab to:
 - Churn distribution (**26.5% churn rate**)  
 - Correlation heatmap  
 - Monthly charges vs churn (boxplot)  
-
+![Churn Distribution](images/churn.png)
+![Heatmap](images/heatmap.png)
+![Monthly charges vs churn (boxplot)](images/monthlycharges.png)
 
 
 ## Machine Learning Pipeline
@@ -88,11 +90,11 @@ Run `Customer_Churn_Prediction.ipynb` in Colab to:
 
 ## Key Drivers of Churn
 
-1. InternetService_Fiber optic (0.746)  
-2. TenureGroup_Long (0.252)  
-3. PaperlessBilling (0.185)  
-4. PaymentMethod_Electronic check (0.177)  
-5. MonthlyCharges (0.010)  
+1. InternetService_Fiber optic  
+2. TenureGroup_Long
+3. PaperlessBilling
+4. PaymentMethod_Electronic check
+5. MonthlyCharges 
 
 
 
