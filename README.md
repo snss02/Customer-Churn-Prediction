@@ -135,11 +135,9 @@ This model helps identify high-risk customers and supports retention strategies.
 - Feature Engineering  
 - Exploratory Data Analysis (EDA)  
 - Model Evaluation  
-License
-MIT License.
 
-Author
-Sneha
+
+
 
 ## Sneha Sai
 [LinkedIn](https://linkedin.com/in/sneha-sri-a38981229) | [Email](mailto:sneharsp.23@gmail.com) | [GitHub](https://github.com/snss02)
@@ -147,5 +145,11 @@ Sneha
 
 Open to: Data Analyst, Data Scientist, BI Developer roles
 
+License
+MIT License.
 
-MIT License. Feel free to use, modify, and distribute.
+Author
+Sneha
+
+
+Feel free to use, modify, and distribute.
