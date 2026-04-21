@@ -106,7 +106,7 @@ Run `Customer_Churn_Prediction.ipynb` in Colab to:
 - Boxplots  
 
 
-0
+
 ## Conclusion
 
 This model helps identify high-risk customers and supports retention strategies. Effective preprocessing and EDA improved prediction accuracy.
@@ -138,5 +138,9 @@ Sneha
 [LinkedIn](https://linkedin.com/in/sneha-sri-a38981229) 
 [Email](mailto:sneharsp.23@gmail.com)
 [GitHub](https://github.com/snss02)
+
+
 Open to: Data Analyst, Data Scientist, BI Developer roles
+
+
 MIT License. Feel free to use, modify, and distribute.
