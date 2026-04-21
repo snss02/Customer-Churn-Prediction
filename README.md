@@ -133,6 +133,10 @@ MIT License.
 
 Author
 Sneha
-GitHub:https://github.com/snss02
 
+## Sneha Sai
+[LinkedIn](https://linkedin.com/in/sneha-sri-a38981229) 
+[Email](mailto:sneharsp.23@gmail.com)
+[GitHub](https://github.com/snss02)
+Open to: Data Analyst, Data Scientist, BI Developer roles
 MIT License. Feel free to use, modify, and distribute.
