@@ -73,12 +73,13 @@ Run `Customer_Churn_Prediction.ipynb` in Colab to:
 ![Churn Distribution](images/churn.png)
 ![Heatmap](images/heatmap.png)
 ![Monthly charges vs churn (boxplot)](images/monthlycharges.png)
-
-
+![byservice](images/byservice.png)
+![paymentmethod](images/paymentmethod.png)
+![churnratesenior](images/churnrateseniorvsnonsenior.png)
 ## Machine Learning Pipeline
 
 - Train/Test Split: **80/20**  
-- Model: **Random Forest Classifier**  
+- Model: **Random Forest Classifier**,**Logistic Regression**  
 - Accuracy: **75%**  
 
 ### Evaluation Metrics
@@ -91,10 +92,10 @@ Run `Customer_Churn_Prediction.ipynb` in Colab to:
 ## Key Drivers of Churn
 
 1. InternetService_Fiber optic  
-2. TenureGroup_Long
+2. MonthlyCharges 
 3. PaperlessBilling
 4. PaymentMethod_Electronic check
-5. MonthlyCharges 
+5. SeniorCitizen
 
 
 
@@ -105,7 +106,7 @@ Run `Customer_Churn_Prediction.ipynb` in Colab to:
 - Boxplots  
 
 
-
+0
 ## Conclusion
 
 This model helps identify high-risk customers and supports retention strategies. Effective preprocessing and EDA improved prediction accuracy.
