@@ -97,9 +97,12 @@ Run `Customer_Churn_Prediction.ipynb` in Colab to:
 ## Visualizations
 
 ## Churn distribution
-- ![Churn Distribution](images/churn.png)
+<img src="images/churn.png" width="500">
+
 ## Correlation heatmap  
-![Heatmap](images/heatmap.png)
+
+<img src="images/heatmap.png" width="500">
+
 ## Boxplots  
 
 <p align="center">
@@ -110,6 +113,7 @@ Run `Customer_Churn_Prediction.ipynb` in Colab to:
   <img src="images/paymentmethod.png" width="45%">
   <img src="images/churnrateseniorvsnonsenior.png" width="45%">
 </p>
+
 ## Conclusion
 
 This model helps identify high-risk customers and supports retention strategies. Effective preprocessing and EDA improved prediction accuracy.
